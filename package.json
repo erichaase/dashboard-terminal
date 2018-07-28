@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/erichaase/dashboard-terminal/issues"
   },
-  "homepage": "https://github.com/erichaase/dashboard-terminal#readme"
+  "homepage": "https://github.com/erichaase/dashboard-terminal#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5"
+  }
 }
