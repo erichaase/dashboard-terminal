@@ -1,0 +1,19 @@
+{
+  "name": "dashboard-terminal",
+  "version": "1.0.0",
+  "description": "Personal terminal dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erichaase/dashboard-terminal.git"
+  },
+  "author": "Eric Haase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erichaase/dashboard-terminal/issues"
+  },
+  "homepage": "https://github.com/erichaase/dashboard-terminal#readme"
+}
